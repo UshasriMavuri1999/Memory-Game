@@ -5,9 +5,9 @@ To run this project, try running index.html project in updated and latest browse
 ## Table of Contents
 
 -   [Instructions](#instructions)
--   [How to Run](#howtorun)
--   [How I built the Game](#howibuiltthegame)
--   [ How it Works](#howitworks)
+-   [How to Run](#How-to-Run)
+-   [How I built the Game](#How-I-built-the-Game)
+-   [ How it Works](#How-it-Works)
 -   [Contributing](#contributing)
 
 ## Instructions
